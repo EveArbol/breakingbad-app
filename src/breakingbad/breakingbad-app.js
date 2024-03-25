@@ -16,7 +16,7 @@ const fetchQuote = async () => {
  */
 
 export const BreakingbadApp = async (element) => {
-    document.querySelector('#app-title').innerHTML = 'Breakingad App';
+    document.querySelector('#app-title').innerHTML = 'Breakinbad App';
     element.innerHTML = 'Loading...';
     await fetchQuote();
 
