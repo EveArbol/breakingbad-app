@@ -1,2 +1,2 @@
-# breakingbad-app
+# Breakingbad-app
 Js Practice using Vite + HTTP requests
